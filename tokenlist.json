@@ -1,0 +1,238 @@
+{
+  "name": "NINJA Default List",
+  "timestamp": "2021-03-02T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 3
+  },
+  "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0xaFa920D3d707DDa943935d5E6fBf77188E43928b.png",
+  "keywords": ["zwap", "default", "list"],
+  "tokens": [
+    {
+      "name": "NinjaSwap",
+      "address": "0xaFa920D3d707DDa943935d5E6fBf77188E43928b",
+      "symbol": "NINJA",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0xaFa920D3d707DDa943935d5E6fBf77188E43928b.png"
+    },
+    {
+      "name": "NinjaSwap",
+      "address": "0x93e7567f277F353d241973d6f85b5feA1dD84C10",
+      "symbol": "NINJA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x93e7567f277F353d241973d6f85b5feA1dD84C10.png"
+    },
+
+    {
+      "name": "BULL Token",
+      "address": "0xC027df92684407b5aB3ab768c46F352323e94c5b",
+      "symbol": "BULL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0xC027df92684407b5aB3ab768c46F352323e94c5b.png"
+    },
+    {
+      "name": "Cardano Token",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
+      "symbol": "ADA",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47.png"
+    },
+    {
+      "name": "Bitcoin Cash Token",
+      "address": "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
+      "symbol": "BCH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf.png"
+    },
+    {
+      "name": "BSCX",
+      "address": "0x5ac52ee5b2a633895292ff6d8a89bb9190451587",
+      "symbol": "BSCX",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x5ac52ee5b2a633895292ff6d8a89bb9190451587.png"
+    },
+    {
+      "name": "BTCB Token",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c.png"
+    },
+    {
+      "name": "Burger Swap",
+      "address": "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
+      "symbol": "BURGER",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f.png"
+    },
+    {
+      "name": "BUSD Token",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56.png"
+    },
+    {
+      "name": "CAKE",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "symbol": "CAKE",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+    },
+    {
+      "name": "Dai Token",
+      "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+    },
+    {
+      "name": "EOS Token",
+      "address": "0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6",
+      "symbol": "EOS",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x56b6fB708fC5732DEC1Afc8D8556423A2EDcCbD6.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
+    },
+    {
+      "name": "Litecoin Token",
+      "address": "0x4338665CBB7B2485A8855A139b75D5e34AB0DB94",
+      "symbol": "LTC",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x4338665CBB7B2485A8855A139b75D5e34AB0DB94.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x55d398326f99059fF775485246999027B3197955.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png"
+    },
+    {
+      "name": "XRP Token",
+      "address": "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
+      "symbol": "XRP",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE.png"
+    },
+    {
+      "name": "YFII.finance Token",
+      "address": "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
+      "symbol": "YFII",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x7F70642d88cf1C4a3a7abb072B53B929b653edA5.png"
+    },
+    {
+      "name": "ezDeFi",
+      "address": "0x1c213179C2c08906fB759878860652a61727Ed14",
+      "symbol": "ZD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x1c213179C2c08906fB759878860652a61727Ed14.png"
+    },
+    {
+      "name": "zSeed",
+      "address": "0x5cd50aae14e14b3fdf3ff13c7a40e8cf5ae8b0a5",
+      "symbol": "zSEED",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x5cd50aae14e14b3fdf3ff13c7a40e8cf5ae8b0a5.png"
+    },
+    {
+      "name": "BSCX Token",
+      "address": "0x3eafdb898347c1897d13e4610f73e4e90ab8dc8c",
+      "symbol": "BSCX",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/bscx.png"
+    },
+    {
+      "name": "BTCB Token",
+      "address": "0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8",
+      "symbol": "BTCB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x6ce8dA28E2f864420840cF74474eFf5fD80E65B8.png"
+    },
+    {
+      "name": "BUSD Token",
+      "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee.png"
+    },
+    {
+      "name": "Dai Token",
+      "address": "0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0xEC5dCb5Dbf4B114C9d0F65BcCAb49EC54F6A0867.png"
+    },
+    {
+      "name": "EOS Token",
+      "address": "0x6B043332090a6BE81De1503949Cfc8bac2cA1c33",
+      "symbol": "EOS",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x6B043332090a6BE81De1503949Cfc8bac2cA1c33.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "address": "0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0xd66c6B4F0be8CE5b39D52E0Fd1344c389929B378.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x337610d27c682E347C9cD60BD4b3b107C9d34dDd.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 97,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd.png"
+    }
+  ]
+}
