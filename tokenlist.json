@@ -34,6 +34,22 @@
       "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0xE63969620AaC596f68AEe7Fa1D795026bf27Ff18.png"
     },
     {
+      "name": "8BIT Token",
+      "address": "0x8F661Bd044b8799fdE621079E4A48171848AD614",
+      "symbol": "8BIT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x8F661Bd044b8799fdE621079E4A48171848AD614.png"
+    },
+    {
+      "name": "Cobalt Lend",
+      "address": "0x8Cbae8Ba8756e57496D29a67819ff96Ae2Ba8017",
+      "symbol": "CBLT",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x8Cbae8Ba8756e57496D29a67819ff96Ae2Ba8017.png"
+    },
+    {
       "name": "BULL Token",
       "address": "0xC027df92684407b5aB3ab768c46F352323e94c5b",
       "symbol": "BULL",
