@@ -35,11 +35,11 @@
     },
     {
       "name": "8BIT Token",
-      "address": "0x8F661Bd044b8799fdE621079E4A48171848AD614",
+      "address": "0x24C1B8c8d78CC00Ce6e0fD9c62FEC07a19E7faBE",
       "symbol": "8BIT",
       "decimals": 18,
       "chainId": 56,
-      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x8F661Bd044b8799fdE621079E4A48171848AD614.png"
+      "logoURI": "https://raw.githubusercontent.com/ninjaswapapp/tokens-list/master/logo/bsc/0x24C1B8c8d78CC00Ce6e0fD9c62FEC07a19E7faBE.png"
     },
     {
       "name": "Cobalt Lend",
